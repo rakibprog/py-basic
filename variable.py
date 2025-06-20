@@ -31,3 +31,21 @@ print(type(a))
 t = "fatema"
 T = "Rocky"
 print(T)
+
+
+#Many value to multiple variable
+
+fruits,protein,vegetable =  "Banana","Fish","Papya"
+
+print(fruits)
+print(protein)
+print(vegetable)
+
+# Multiple variable to one value
+
+fish = beef = mutton = "Protein"
+
+print(fish)
+print(beef)
+print(mutton)
+
