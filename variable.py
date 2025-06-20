@@ -25,3 +25,9 @@ print(m)
 
 a = 10
 print(type(a))
+
+#Case sensitive
+
+t = "fatema"
+T = "Rocky"
+print(T)
