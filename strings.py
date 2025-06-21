@@ -12,3 +12,9 @@ print(story)
 a = "Hello, World"
 print(a[7])
 
+#Looping through a string
+
+for x in "banana":
+ print(x)
+for x in 'Tomato':
+    print(x)
