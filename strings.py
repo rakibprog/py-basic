@@ -1,4 +1,5 @@
 # Multiline string
+from idlelib.colorizer import prog_group_name_to_tag
 
 story = """My name is a rocky, i am 27 , I have a son ,
   my son name is Ebaad Ahmehd,
@@ -18,3 +19,21 @@ for x in "banana":
  print(x)
 for x in 'Tomato':
     print(x)
+
+#string length
+
+data = 'my name is rocky'
+print(len(data))
+
+#Check a word in phrase
+
+name = "my name is rocky"
+print('rocky' in name )
+
+
+#print only if rocky is present
+
+name = "my name is rocky"
+
+if "rocky" in name:
+    print('yes rocky is present')
