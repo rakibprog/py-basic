@@ -6,3 +6,9 @@ story = """My name is a rocky, i am 27 , I have a son ,
   he eats milk, vegetable, khicuri and banana"""
 
 print(story)
+
+#String are arrays
+
+a = "Hello, World"
+print(a[7])
+
