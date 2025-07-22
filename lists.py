@@ -14,6 +14,24 @@ print(languages)
 vegetables = ['Tomato','Onion','Cucumber']
 print(len(vegetables))
 
+#A list can contain different data
+
+password = [1,2,"a","#",5]
+print(password)
+
+#Acces list items
+thislist = ['Apple','Jackfruit','Gueva']
+print(thislist[1])
+
+#Negative indexing
+thislist = ['Apple','Jackfruit','Gueva']
+print(thislist[-1])
+
+
+
+
+
+
 
 
 
