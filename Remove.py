@@ -18,3 +18,11 @@ thislist = ['Apple','Banna','Orange']
 
 del thislist[0]
 print(thislist)
+
+#Clear the list
+
+thislist = ['apple','banna','cherry']
+
+thislist.clear()
+
+print(thislist)
